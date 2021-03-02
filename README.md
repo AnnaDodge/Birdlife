@@ -12,9 +12,9 @@ Data used in this project that is available under the Open Government License (h
 - Data Inputs/Household Numbers
 
 #### Sources:
-Office for National Statistics, 2011 Census: Digitised Boundary Data (England and Wales). UK Data Service Census Support. Downloaded from: https://borders.ukdataservice.ac.uk/
-National Records of Scotland, 2011 Census: Digitised Boundary Data (Scotland). UK Data Service Census Support. Downloaded from: https://borders.ukdataservice.ac.uk/
-Northern Ireland Statistics and Research Agency, 2011 Census: Digitised Boundary Data (Northern Ireland). UK Data Service Census Support. Downloaded from: https://borders.ukdataservice.ac.uk/
+- Office for National Statistics, 2011 Census: Digitised Boundary Data (England and Wales). UK Data Service Census Support. Downloaded from: https://borders.ukdataservice.ac.uk/
+- National Records of Scotland, 2011 Census: Digitised Boundary Data (Scotland). UK Data Service Census Support. Downloaded from: https://borders.ukdataservice.ac.uk/
+- Northern Ireland Statistics and Research Agency, 2011 Census: Digitised Boundary Data (Northern Ireland). UK Data Service Census Support. Downloaded from: https://borders.ukdataservice.ac.uk/
 
 ### APS 
 Annual Population Survey data files are titled 'APS_*.csv' and are within the directory 'Data Inputs/Health Measures/APS Data'.
