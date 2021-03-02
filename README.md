@@ -17,9 +17,9 @@ Data used in this project that is available under the Open Government License (h
 - Northern Ireland Statistics and Research Agency, 2011 Census: Digitised Boundary Data (Northern Ireland). UK Data Service Census Support. Downloaded from: https://borders.ukdataservice.ac.uk/
 
 ### APS 
-Annual Population Survey data files are titled 'APS_*.csv' and are within the directory 'Data Inputs/Health Measures/APS Data'.
-Source: Office for National Statistics
+Annual Population Survey data files are titled 'APS_*.csv' and are within the directory 'Data Inputs/Health Measures/APS Data'.  
+**Source:** Office for National Statistics
 
 ### EIMD
-Data files from the English Index of Multiple Deprivation are titled 'EIMD_*.csv' and can be found in the directory 'Data Inputs/EIMD Data'.
-Source: UK Goverment
+Data files from the English Index of Multiple Deprivation are titled 'EIMD_*.csv' and can be found in the directory 'Data Inputs/EIMD Data'.  
+**Source:** UK Goverment
